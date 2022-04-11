@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Obaid  👾
-<h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
+<h3 align="center">A software engineerfrom India</h3>
 
 <img src="https://komarev.com/ghpvc/?username=obaid001" alt="obaid001" />
   
@@ -9,9 +9,9 @@
 [![Years Badge](https://badges.pufler.dev/years/obaid001)](https://badges.pufler.dev)
 
 
-- 🔭 My area of interest is in Machine Learning & Deep Learning. 
-- 🌱 I’m currently learning Applied Mathematics sideby.
-- 💬 Ask me about Machine Learning.
+- 🔭 My area of interest is in devloping new skills 
+- 🌱 I’m currently learning c++.
+- 💬 Ask me about Data strutcher and algorithms.
 - 📫 How to reach me: obaidsiddiqui19@gmail.com.
 
 You can connect with me here,
