@@ -1,6 +1,6 @@
 
 # Hi there 👋 I'm Obaid  👾
-<h3 align="center">A software engineerfrom India</h3>
+<h3 align="center">A software engineer from India</h3>
 
 <img src="https://komarev.com/ghpvc/?username=obaid001" alt="obaid001" />
   
