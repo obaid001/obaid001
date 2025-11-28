@@ -10,7 +10,7 @@
 
 
 - 🔭 My area of interest is in devloping new skills 
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning Data Science.
 - 💬 Ask me about Data strutcher and algorithms.
 - 📫 How to reach me: obaidsiddiqui19@gmail.com.
 
