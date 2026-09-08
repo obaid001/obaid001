@@ -36,7 +36,7 @@ A C-embedded vector DSL compiler built using **C, libclang, and LLVM C API**, ta
 * Explores generated LLVM IR and assembly across different optimization levels
 
 🔗 [Live Compiler](https://numvec.onrender.com)
-🔗 [GitHub Repository](https://github.com/obaid001/NumVec)
+
 
 ## Connect With Me
 
