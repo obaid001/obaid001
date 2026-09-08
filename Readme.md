@@ -1,42 +1,63 @@
+# Hi 👋 I'm Obaid
 
-# Hi there 👋 I'm Obaid  👾
-<h3 align="center">A Data Scientist from India</h3>
+<h3 align="center">M.Tech @ IIIT Allahabad | Compiler Engineering | AI/ML | Backend Systems</h3>
 
-<img src="https://komarev.com/ghpvc/?username=obaid001" alt="obaid001" />
-  
-[![Repos Badge](https://badges.pufler.dev/repos/obaid001)](https://badges.pufler.dev)
-
-[![Years Badge](https://badges.pufler.dev/years/obaid001)](https://badges.pufler.dev)
-
-
-- 🔭 My area of interest is in devloping new skills 
-- 🌱 I’m currently learning Data Science.
-- 💬 Ask me about Data strutcher and algorithms.
-- 📫 How to reach me: obaidsiddiqui19@gmail.com.
-
-You can connect with me here,
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/obaid001/)
-[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/916307127679)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/obaid.786)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@obaidsiddiqui19)
-
-
-
-
-
-
-<p align="center"> 
-<a href="https://linkedin.com/in/obaid001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="obaid" height="20" width="20" /></a> |
-<a href="https://instagram.com/obaid.786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="obaid" height="20" width="20" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=obaid001" alt="obaid001" />
 </p>
 
+## About Me
 
-Here are some ideas to get you started:
+* 🎓 M.Tech student at **IIIT Allahabad**
+* ⚙️ Interested in **Compiler Engineering, LLVM, C/C++, and Systems Programming**
+* 🤖 Experienced in **Machine Learning, Generative AI, RAG, and AI backend systems**
+* 🚀 Worked with **Python, FastAPI, Redis, MongoDB, Docker, LangChain, LangGraph, and TensorFlow**
+* 🔬 Currently working on **Explainable AI for Brain Tumor Classification and Segmentation**
+* 💬 Ask me about **Compilers, C/C++, Machine Learning, Backend Development, and Data Structures & Algorithms**
+* 📫 Reach me at **[obaidsiddiqui19@gmail.com](mailto:obaidsiddiqui19@gmail.com)**
 
-- 🔭 I’m currently working on - Image Processing with state of the art techniques
-- 🌱 I’m currently learning - Stable Feature extraction
-- 👯 I’m looking to collaborate on - Image Processing task
-- 🤔 I’m looking for help with - Stable Feature extraction
-- 💬 Ask me about - any Machine Learning or deep learning related problem.
-- 📫 How to reach me: - Gmail -  obaidsiddiqui19@gmail.com
+## Current Interests
+
+* Compiler Engineering and LLVM
+* Intermediate Representations and Code Generation
+* C/C++ and Low-Level Systems
+* Machine Learning and Explainable AI
+* RAG and AI Backend Systems
+
+## Featured Project
+
+### NumVec — C-Embedded SIMD Vector DSL Compiler
+
+A C-embedded vector DSL compiler built using **C, libclang, and LLVM C API**, targeting **x86-64**.
+
+* Clang AST → DSL IR → Semantic/Shape Analysis → LLVM IR → MIR → RegAlloc → Assembly
+* Supports load/store, add, sub, mul, scale, dot product, vector literals, and 1D broadcasting
+* Includes a web-based interface for inspecting compiler stages
+* Explores generated LLVM IR and assembly across different optimization levels
+
+🔗 [Live Compiler](https://numvec.onrender.com)
+🔗 [GitHub Repository](https://github.com/obaid001/NumVec)
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/obaid001/)
+
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@obaidsiddiqui19)
+
+## Tech Stack
+
+**Languages:** C, C++, Python, Go, SQL
+
+**Compiler & Systems:** LLVM IR, LLVM C API, Clang/libclang, AST, DSL IR, SIMD, x86-64
+
+**Backend & AI:** FastAPI, Redis, MongoDB, Docker, LangChain, LangGraph, RAG
+
+**Machine Learning:** TensorFlow, OpenCV, CNNs, U-Net, Attention, LSTM
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/obaid001">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="22" width="22" />
+  </a>
+</p>
