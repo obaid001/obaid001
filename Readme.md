@@ -21,7 +21,7 @@ You can connect with me here,
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/obaid.786)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@obaidsiddiqui19)
 
-[![Ismail's github stats](https://github-readme-stats.vercel.app/api?username=obaid001)](https://github.com/obaid001/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid001&layout=compact&hide=html" alt="obaid001" />
+
 
 
 
